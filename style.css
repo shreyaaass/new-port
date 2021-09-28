@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,500;1,300;1,400&display=swap");
 * {
   box-sizing: border-box;
   margin: 0;
@@ -203,7 +204,7 @@ body {
   border-radius: 50px;
   font-size: 2rem;
   cursor: pointer;
-  font-family: "roboto";
+  font-family: "Poppins", sans-serif;
   margin: 30px;
   text-transform: uppercase;
   letter-spacing: 3px;
