@@ -165,6 +165,7 @@ body {
   font-weight: 901;
   letter-spacing: 2px;
   margin: 30px 0 0px 20px;
+  margin: 30px 0 10px 20px;
 }
 .contact-form input {
   box-shadow: inset 0px 4px 4px 0px rgb(0, 0, 0, 0.25);
@@ -174,7 +175,7 @@ body {
   border-radius: 10px;
   font-size: 1.5rem;
   font-family: "roboto";
-  margin: 30px;
+  margin: 10px;
   background-color: #eccd1f;
 }
 .contact-form input:focus {
@@ -188,7 +189,7 @@ body {
   border-radius: 10px;
   font-size: 1.5rem;
   font-family: "roboto";
-  margin: 30px;
+  margin: 10px;
   height: 200px;
   background-color: #eccd1f;
 }
@@ -200,12 +201,12 @@ body {
   background-color: #8b3d3dce;
   color: white;
   border: none;
-  padding: 30px 35px;
+  padding: 15px 15px;
   border-radius: 50px;
   font-size: 2rem;
   cursor: pointer;
   font-family: "Poppins", sans-serif;
-  margin: 30px;
+  margin: 10px;
   text-transform: uppercase;
   letter-spacing: 3px;
   box-shadow: 0 10px 10px 0 #de66703a;
