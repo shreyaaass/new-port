@@ -189,7 +189,6 @@ body {
   font-size: 1.5rem;
   font-family: "roboto";
   margin: 10px;
-  height: 200px;
   background-color: #eccd1f;
 }
 .contact-form::placeholder {
@@ -200,7 +199,7 @@ body {
   background-color: #8b3d3dce;
   color: white;
   border: none;
-  padding: 15px 15px;
+  padding: 5px 5px;
   border-radius: 50px;
   font-size: 2rem;
   cursor: pointer;
